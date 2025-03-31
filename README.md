@@ -1,2 +1,2 @@
 # Snake-Game
-Snake game for my website
+Simple Snake Game I created
